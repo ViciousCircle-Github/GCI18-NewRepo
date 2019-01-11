@@ -1,7 +1,7 @@
-<strong> Zosiunia </strong>
+<strong> x y z </strong>
 <br>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit
 <br>
-<strong> Michał </strong>
+<strong> z y x </strong>
 <br>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit
